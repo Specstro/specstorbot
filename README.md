@@ -2,6 +2,10 @@
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/specstro/specstorbot)
 
+# Buildpack 
+
+* [Node.js] (heroku/nodejs)
+* [Ffmpeg] (https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest)
 ---
 
 # Requirements
