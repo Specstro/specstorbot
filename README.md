@@ -4,8 +4,8 @@
 
 # Buildpack 
 
-* [Node.js] (heroku/nodejs)
-* [Ffmpeg] (https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest)
+* [Node.js](heroku/nodejs)
+* [Ffmpeg](https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest/)
 ---
 
 # Requirements
